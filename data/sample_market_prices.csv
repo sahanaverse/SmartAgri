@@ -1,0 +1,7 @@
+commodity,state,district,market,date,min_price,max_price,modal_price
+Tomato,Karnataka,Bengaluru,Yeshwanthpur,2026-10-20,1800,2400,2100
+Tomato,Karnataka,Mysuru,Mysuru,2026-10-20,1600,2200,1900
+Onion,Karnataka,Bengaluru,Yeshwanthpur,2026-10-20,2200,2800,2500
+Onion,Maharashtra,Nashik,Nashik,2026-10-20,1800,2500,2200
+Rice,Karnataka,Mandya,Mandya,2026-10-20,3000,3600,3300
+Mango,Karnataka,Bengaluru,Bengaluru,2026-10-20,4000,5000,4500
